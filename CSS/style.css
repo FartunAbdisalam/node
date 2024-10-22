@@ -1,0 +1,12 @@
+body{
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+img{
+  height: 400px;
+  width: 400px;
+}

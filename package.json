@@ -1,0 +1,16 @@
+{
+  "name": "node_course",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node sever",
+    "dev": "nodemon server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
